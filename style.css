@@ -31,3 +31,8 @@ button {
 h2, h3 {
   margin: 10px 0;
 }
+
+.warning-red{
+  color: red;
+  font-weight: bold;
+}
